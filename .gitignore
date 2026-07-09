@@ -1,0 +1,14 @@
+# Файлы настроек Qt Creator
+*.pro.user
+*.pro.user.*
+
+# Каталоги сборки (shadow build)
+build-*/
+
+# Временные файлы компиляции
+*.o
+*.obj
+*.moc
+moc_*.cpp
+ui_*.h
+Makefile*
